@@ -1,0 +1,13 @@
+.home__bg {
+    background-image: url(https://scontent.ftun1-2.fna.fbcdn.net/v/t1.6435-9/122255621_3386544428103372_949028520993126698_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=973b4a&_nc_ohc=GQKqPhOvFf4AX8iBeJt&_nc_ht=scontent.ftun1-2.fna&oh=00_AfD-gSgIIDwrHMXQblpEWtgl5APM29xabFNS8OiQTNtCbg&oe=63B829F4);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
